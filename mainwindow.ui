@@ -33,7 +33,7 @@
       <x>260</x>
       <y>170</y>
       <width>199</width>
-      <height>175</height>
+      <height>200</height>
      </rect>
     </property>
     <layout class="QVBoxLayout" name="verticalLayout_3">
@@ -118,6 +118,13 @@
         </layout>
        </item>
       </layout>
+     </item>
+     <item>
+      <widget class="QCheckBox" name="chkSaveInfo">
+       <property name="text">
+        <string>Save information</string>
+       </property>
+      </widget>
      </item>
      <item>
       <widget class="QPushButton" name="pushButton">
